@@ -1,0 +1,2 @@
+C:\Users\ME\Desktop\[C]Practice\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\ME\Desktop\[C]Practice\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb
